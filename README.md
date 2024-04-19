@@ -7,7 +7,7 @@
 
 ## 在线预览
 
-https://geeeeeeeek.github.io/web_tool/
+https://lh7872.github.io/
 
 
 ## 二次开发
@@ -17,10 +17,4 @@ https://geeeeeeeek.github.io/web_tool/
 2. 如需修改关于页面，可修改about里面的index页面
 
 
-## 参考资料
 
-- https://web-tool-omega.vercel.app/
-
-- https://web-a55.pages.dev/
-
-- https://hrzhanghuan.com
